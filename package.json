@@ -1,0 +1,15 @@
+{
+  "name": "tty-typist",
+  "description": "Basic typing test for terminal",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["typing", "tty"],
+  "author": {
+    "name": "Rituraj Borpujari",
+    "url": "https://riturajborpujari.com"
+  },
+  "license": "MIT"
+}
